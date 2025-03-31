@@ -9,10 +9,7 @@ I'm an Artificial Intelligence Engineer specializing in Computer Vision and Mach
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelgaspar&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelgaspar&show_icons=true&theme=radical&count_private=true)
-
+[![GitHub Skills](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelgaspar&theme=radical)](https://github.com/angelgaspar)
 
 
 ### 🧰 Languages and Tools
